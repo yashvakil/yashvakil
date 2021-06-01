@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Graduate Student by day, Struggling Entrepreneur by night
-- 🎓 Will draguate 𝚒𝚗 May 𝟸021 in Computer Science with specialization in Artifical Intelligence.
 - 💼 Founded  <img src="https://github.com/yashvakil/yashvakil/blob/master/logos/HiveMind.png" height="40" title="The HiveMind Project">
 - 💻 Designed, built, and launched the  <img src="https://github.com/yashvakil/yashvakil/blob/master/logos/RPortal.png" height="40" title="Resource Portal">  <img src="https://github.com/yashvakil/yashvakil/blob/master/logos/SwarmNet.png" height="40" title="Swarm Net">  <img src="https://github.com/yashvakil/yashvakil/blob/master/logos/BeezWax.png" height="40" title="Beez Wax">
 - ⚙️ I use daily: `.py`, `.js`, and sometimes: `.cs`, `.java` in that order
